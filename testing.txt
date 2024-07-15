@@ -2,3 +2,5 @@ Just adding with remote repo
 
 
 adding new line from local repo
+
+editing the txt file from master
